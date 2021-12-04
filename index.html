@@ -6,6 +6,8 @@
   <title>e-commerce</title>
   <!-- Bootstrap -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+  
+
   <!-- Font Awesome -->
   <link
   rel="stylesheet"
@@ -16,14 +18,21 @@
 </head>
 <body>
   <!-- Navbar -->
-  <nav class="navbar navbar-expand-lg navbar-mainbg">
+  <nav class="navbar navbar-expand-lg  fixed-top navbar-mainbg">
     <!-- Logo -->
     
-    <a class="navbar-brand navbar-logo" href="#">  <h6 class="logoname">Naijababa</h6></a>
+    <a class="navbar-brand navbar-logo" href="#">
+      <img class="logoname" src="./image/logo.svg" alt="" >
+    </a>
     <!-- Collapse Button -->
     <button 
       class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <i class="fas fa-bars text-white"></i>
+      <div id="nav-icon3">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
     </button>
     <!-- Links -->
     <div 
@@ -35,66 +44,359 @@
               <div class="right"></div>
             </div>
             <!-- Nav Links -->
-            <li class="nav-item">
-                <a class="nav-link" href="#Dashboard">
-                  <i class="bi bi-person" style="font-weight: 400; "></i>login</a>
-            </li>
+            
             <li class="nav-item active">
                 <a 
-                  class="nav-link" href="#Address">
-                  <i class="bi bi-patch-question"></i>Help
+                  class="nav-link" href="#">
+                  <i class="bi bi-house"></i>Home
                 </a>
             </li>
             <li class="nav-item">
                 <a 
-                  class="nav-link" href="#Components">
-                  <i class="bi bi-cart3"></i>Carts
+                  class="nav-link" href="#about" >
+                  <i class="bi bi-file-person"></i>About
                 </a>
             </li>
             <li class="nav-item">
                 <a 
-                  class="nav-link" href="#Calender">
-                  <i class="bi bi-chat-left"></i>Message
+                  class="nav-link" href="#skill">
+                  <i class="bi bi-bookmarks"></i>Skills
                 </a>
             </li>
             <li class="nav-item">
                 <a 
-                  class="nav-link" href="#Charts">
-                  <i class="bi bi-clipboard-data"></i>Order
+                  class="nav-link" href="#experience">
+                  <i class="bi bi-clock"></i>Experience
                 </a>
             </li>
+            <li class="nav-item">
+              <a 
+                class="nav-link" href="#project">
+                <i class="bi bi-cloud-haze"></i>Projects
+              </a>
+          </li>
             
         </ul>
     </div>
   </nav>
-  <nav class="nav justify-content-center">
-    <a class="nav-link categories"  href="#"><i class="bi bi-justify"></i>All Categories</a>
-    <a class="nav-link categories"  href="#">Trade shows</a>
-    <a class="nav-link categories"  href="#">Personal Protective Equipment</a>
-    <a class="nav-link categories"  href="#">Buyer Central</a>
-    <a class="nav-link categories"  href="#">Sell On Naijababa</a>
-    <a class="nav-link categories"  href="#">Get The App</a>
-    <a class="nav-link categories"  href="#"><i class="bi bi-globe"></i>Language selection</a>
-   
-    
-  </nav>
 
-  <!-- Header -->
+  <!-- Firstbody -->
+  <div class="container firstlanding">
+   <div class="row">
+     <div class="col-sm-12 col-md-6">
+      <div class="textone">
+        <h1 class="bigtext">Oluwasegun Yinka</h1>
+        <p class="text-md smalltext"><span style="color: #5199d8;font-weight: bold;">A UI/UX Designer & a Frontend Engineer</span> who focus on turning a complex problems into reasonable Products interface, I design things blending my vast design skill set and perspectives to create user-centered designed</p
+         <br/>
+         <button  type="button" class="btn btn-outline-primary">Contact Me</button><br/>
+       </div>
+       <div class="yinkone">
+        <img src="./image/olami.png" class="img-fluid olamix" alt="...">
+      
+        
+       </div>
+     </div><br/>
+    
+     <div class="col-sm-12 col-md-6">
+      <div class="yinktwo">
+        <img src="./image/olami.png" class="img-fluid" alt="...">
+        
+       </div>
+       <div class="texttwo">
+        <h1 class="bigtext">Oluwasegun Yinka</h1>
+        <p class="text-md smalltext"><span style="color: #5199d8;font-weight: bold;">A UI/UX Designer & a Frontend Engineer</span> who focus on turning a complex problems into reasonable Products interface, I design things blending my vast design skill set and perspectives to create user-centered designed</p
+         <br/>
+         <button  type="button" class="btn btn-outline-primary">Contact Me</button><br/>
+       </div>
+    </div> 
+   </div>
+  </div>
+  <div class="container" id="about"></div>
+ <!-- Secondbody -->
+ <div class="container-fluid secondlanding" >
+   <div class="container">
+   <div class="row">
+     <div class="col-sm-12 col-md-6">
+      <img  src="./image/Aboutimage.svg" class="img-fluid Aboutimage" alt="...">
+     </div>
+     <div class="col-sm-12 col-md-6">
+      <div>
+        <div class="aboutabouttext">
+          <h3 class="Abouttext">About</h3>
+          <p class="smalltextlandingtwo">I'm a professional creative-minded and multi-faced product designer and a Frontend Enginner driven to create awesome and functional products with fluid likes
+            experiences. I have over 3 years of experience and have been a part of bringing both enterprise and consumer-facing solutions to life, particularly in the 
+            financial and Entertainments industries.
+          </p>
+          <p class="smalltextlandingtwo">I have a diverse design skillsets that spread across UI/UX design, implementation of components (coding), motion design and illustration
+            .I understand the importance of human centered design and its impacts on how it will interact with product and services and strive for that at all times
+          </p>
+          <p class="smalltextlandingtwo">For me, its really all about the details and also delivery usable and functional products</p>
+         </div>
+      </div>
+      </div>
+     </div>
+   </div>
+   </div>
+ </div>
+ 
+<!-- Thirdbody -->
+<div class="container-fluid thirdlanding" id="skill">
   <div class="container">
-   
-    <!-- Columns start at 50% wide on mobile and bump up to 33.3% wide on desktop -->
     <div class="row">
-      <div class="col-12 col-sm-3">.col-6 .col-md-4</div>
-      <div class="col-12 col-sm-6">.col-6 .col-md-4</div>
-      <div class="col-12 col-sm-3">.col-6 .col-md-4</div>
+      <div class="col-sm-12 col-md-6">
+        <div class="skillset">
+          <h5 class="Abouttext">Skills</h5>
+          <h5 style="color: rgb(119, 119, 119);">UI/UX Designs</h5>
+          <p class="smalltextlandingthree">Figma, Adobe XD, Invision Studio, Adobe Photoshop, Adobe Illustrator, Vectary Studio, After Effects.</p>
+          <br/>
+
+          <h5 style="color: rgb(119, 119, 119);">Frontend Engineer</h5>
+          <p class="smalltextlandingthree">Html, CSS, Javascript, Bootstrap, Semantics UI, Material UI, ReactJs, React Bootstrap.</p>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-6">
+        <div>
+          <img  src="./image/shape.svg" class="img-fluid skillimage" alt="...">
+        </div>
+      </div>
     </div>
+
+  </div><div class="container" id="experience"></div><br/><br/><br/><br/><br/>
+
+ 
+
+  <div class="container-fluid"  > 
+  <div class="container" ><br/>
+    <h5 class="Abouttext">Experience</h5><br/>
+    <div class="row">
+      <div class="col-sm-12 col-md-4">
+        <div class="card box" >
+          <div class="card-body">
+            <div style="display:inline;">
+              <span class="iconbody"><i class="bi bi-briefcase " style="font-size:25px;margin: auto;"></i></span><header style="margin-top:-2.6rem; font-size:1.0rem; margin-left:3.8rem; font-weight:500;" >UI/UX Designer</header>
+            </div><br/><hr class="linebox"/>
+             
+            <div>
+              <p style="font-size: small;font-weight:500;" class="card-title"><i class="bi bi-house" style="font-size: 21px;" ></i>ZKYTE Technologies</p>
+              <p style="font-size: small;font-weight:500;margin-top: -0.6rem;" class="card-title"><i class="bi bi-geo-alt" style="font-size: 21px;" ></i>No 3 Fez, Wuse Zone 2, Abuja</p>
+              <p style="font-size: small;font-weight:500;margin-top: -0.6rem;" class="card-title"><i class="bi bi-calendar3-event" style="font-size: 21px;" ></i>April (2021) - present</p>
+            </div><br/>
+
+           <ul class="listwork" >
+             <li>- Design UI mock-ups and prototypes that clearly illustrate how sites function and look like.</li><br/>
+             <li>- Create graphic designs (e.g. images, sketches and tables).</li><br/>
+             <li>- Understanding business requirements, technical capabilities and user needs and translating them into innovative product solutions.</li><br/>
+             <li>- Creating and delivering motion graphics for various media.</li><br/>
+             <li>- Editing video footage and adding effects/elements to enhance motion graphics Staying up to date on the latest graphic design techniques.</li><br/>
+             <li>- Adhering to style standards on typography and graphic design.</li><br/>
+           </ul>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4">
+        <div class="card box" >
+          <div class="card-body">
+            <div style="display:inline;">
+              <span class="iconbody"><i class="bi bi-briefcase " style="font-size:25px;margin: auto;"></i></span><header style="margin-top:-2.6rem; font-size:1.0rem; margin-left:3.8rem; font-weight:500;" >Full-Stack</header>
+            </div><br/><hr class="linebox"/>
+             
+            <div>
+              <p style="font-size: small;font-weight:500;" class="card-title"><i class="bi bi-house" style="font-size: 21px;" ></i>Wocatech (Internship)</p>
+              <p style="font-size: small;font-weight:500;margin-top: -0.6rem;" class="card-title"><i class="bi bi-geo-alt" style="font-size: 21px;" ></i>4th Avenue, Gwarimpa, Abuja</p>
+              <p style="font-size: small;font-weight:500;margin-top: -0.6rem;" class="card-title"><i class="bi bi-calendar3-event" style="font-size: 21px;" ></i>Febuary (2021) - April (2021)</p>
+            </div><br/>
+
+           <ul class="listwork" >
+             <li>- Collaborating with a team of developers and designers to create an innovative website that draws the user’s attention and interest.</li><br/>
+             <li>- Creating reusable, effective, and scalable JavaScript code.</li><br/>
+             <li>- Implementing frontend components with Reacts framework.</li><br/>
+             <li>- Translating the technical requirements into code.</li><br/>
+             <li>- Testing and updating our web application to work on all browsers and devices.</li><br/>
+             <li>- Ensure that established design standards are consistently and appropriately applied within design work.</li><br/>
+           </ul>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4">
+        <div class="card box" >
+          <div class="card-body">
+            <div style="display:inline;">
+              <span class="iconbody"><i class="bi bi-briefcase " style="font-size:25px;margin: auto;"></i></span><header style="margin-top:-2.6rem; font-size:1.0rem; margin-left:3.8rem; font-weight:500;" >Graphics Designer</header>
+            </div><br/><hr class="linebox"/>
+             
+            <div>
+              <p style="font-size: small;font-weight:500;" class="card-title"><i class="bi bi-house" style="font-size: 21px;" ></i>BreakoutMuzic (Remote)</p>
+              <p style="font-size: small;font-weight:500;margin-top: -0.6rem;" class="card-title"><i class="bi bi-geo-alt" style="font-size: 21px;" ></i>Cairo Street, Wuse 2, Abuja</p>
+              <p style="font-size: small;font-weight:500;margin-top: -0.6rem;" class="card-title"><i class="bi bi-calendar3-event" style="font-size: 21px;" ></i>April (2021) - present</p>
+            </div><br/>
+
+           <ul class="listwork" >
+             <li>- Come up with reasonable timelines for job completion that will satisfy budgetary restrictions without compromising artistic integrity.</li><br/>
+             <li>- Create graphic designs (e.g. images, sketches and tables).</li><br/>
+             <li>- Collaborate with the team to ensure consistency of designs across various media outlets</li><br/>
+             <li>- Create compelling and effective designs, print and digital media.</li><br/>
+             <li>- Editing video footage and adding effects/elements to enhance motion graphics Staying up to date on the latest graphic design techniques.</li><br/>
+             <li>- Adhering to style standards on typography and graphic design.</li><br/>
+           </ul>
+           
+          </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
   
-   
+ 
+
+  <div class="container-fluid fourthlanding">
+    <div class="container" id="project"><br/>
+    <div class="container"><br/><br/>
+      <h5 class="Abouttext">Projects</h5><br/>
+      <h6 style="color: #5199d8;">ui/ux design</h6>
+      <p class="projecttopic">opyright (C) Microsoft Corporation. All rights reserved.
+        Try the new cross-platform PowerShell https://aka.ms/pscore6
+      </p>
+    </div>
+    
+
+        <div class="container">
+              <div class="row">
+                  <div class="col-sm-12 col-md-6">
+                      <div>
+                          <div class="aboutabouttext">
+                            <h6 class="Abouttextproject">Fitme</h6>
+                            <p class="smalltextlandingtwo">I'm a professional creative-minded and multi-faced product designer and a Frontend Enginner driven to create awesome and functional products with fluid likes
+                              experiences. I have over 3 years of experience and have been a part of bringing both enterprise and consumer-facing solutions to life, particularly in the 
+                              financial and Entertainments industries.
+                            </p>
+                            <p class="smalltextlandingtwo">I have a diverse design skillsets that spread across UI/UX design, implementation of components (coding), motion design and illustration
+                              .I understand the importance of human centered design and its impacts on how it will interact with product and services and strive for that at all times
+                            </p>
+                            <p class="smalltextlandingtwo">For me, its really all about the details and also delivery usable and functional products</p>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-sm-12 col-md-6">
+
+                    <img  src="./image/mm.svg" class="img-fluid Aboutimage" alt="...">
+                  
+                  </div>
+                  </div>
+              </div>
+          </div>
+
+          <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-6">
+                  <img  src="./image/mm2.svg" class="img-fluid Aboutimage" alt="...">
+                </div>
+                <div class="col-sm-12 col-md-6">
+                  <div>
+                    <div class="aboutabouttext">
+                      <h6 class="Abouttextproject2">InfiTax</h6>
+                      <p class="smalltextlandingtwo">I'm a professional creative-minded and multi-faced product designer and a Frontend Enginner driven to create awesome and functional products with fluid likes
+                        experiences. I have over 3 years of experience and have been a part of bringing both enterprise and consumer-facing solutions to life, particularly in the 
+                        financial and Entertainments industries.
+                      </p>
+                      <p class="smalltextlandingtwo">I have a diverse design skillsets that spread across UI/UX design, implementation of components (coding), motion design and illustration
+                        .I understand the importance of human centered design and its impacts on how it will interact with product and services and strive for that at all times
+                      </p>
+                      <p class="smalltextlandingtwo">For me, its really all about the details and also delivery usable and functional products</p>
+                    </div>
+                </div>
+
+                  
+                
+                </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container">
+          <div class="row">
+              <div class="col-sm-12 col-md-6">
+                  <div>
+                      <div class="aboutabouttext">
+                        <h6 class="Abouttextproject">Fitme</h6>
+                        <p class="smalltextlandingtwo">I'm a professional creative-minded and multi-faced product designer and a Frontend Enginner driven to create awesome and functional products with fluid likes
+                          experiences. I have over 3 years of experience and have been a part of bringing both enterprise and consumer-facing solutions to life, particularly in the 
+                          financial and Entertainments industries.
+                        </p>
+                        <p class="smalltextlandingtwo">I have a diverse design skillsets that spread across UI/UX design, implementation of components (coding), motion design and illustration
+                          .I understand the importance of human centered design and its impacts on how it will interact with product and services and strive for that at all times
+                        </p>
+                        <p class="smalltextlandingtwo">For me, its really all about the details and also delivery usable and functional products</p>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-sm-12 col-md-6">
+
+                <img  src="./image/mm.svg" class="img-fluid Aboutimage" alt="...">
+              
+              </div>
+              </div>
+          </div>
+      </div>
+
+      <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-6">
+                <div>
+                    <div class="aboutabouttext">
+                      <h6 class="Abouttextproject">Fitme</h6>
+                      <p class="smalltextlandingtwo">I'm a professional creative-minded and multi-faced product designer and a Frontend Enginner driven to create awesome and functional products with fluid likes
+                        experiences. I have over 3 years of experience and have been a part of bringing both enterprise and consumer-facing solutions to life, particularly in the 
+                        financial and Entertainments industries.
+                      </p>
+                      <p class="smalltextlandingtwo">I have a diverse design skillsets that spread across UI/UX design, implementation of components (coding), motion design and illustration
+                        .I understand the importance of human centered design and its impacts on how it will interact with product and services and strive for that at all times
+                      </p>
+                      <p class="smalltextlandingtwo">For me, its really all about the details and also delivery usable and functional products</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-6">
+
+              <img  src="./image/mm.svg" class="img-fluid Aboutimage" alt="...">
+            
+            </div>
+            </div>
+        </div>
+    </div>
   </div>
 
-  
+
+
+
+
+<!-- bottonNav -->
+<div class="container-fluid bottomnav">
+   <div class="container">
+     <div class="row">
+      <div class="col-sm-12 col-md-4">
+        <a class="navbar-brand navbar-logo" href="#">
+          <img class="logonamebottom" src="./image/logo2.svg" alt="" >
+        </a>
+      </div>
+      <div class="col-sm-12 col-md-8">
+      <h6 class="copy">Copyright © 2021 Olayinka. All rights reserved.</h6>
+      </div> 
+     </div>
+   </div>
+</div>
+ 
 
   <!-- Scripts -->
+     
+  
+
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
   <!-- Custom Script -->

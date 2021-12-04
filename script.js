@@ -36,3 +36,13 @@ $(window).on('resize', function(){
 $(".navbar-toggler").click(function(){
   setTimeout(function(){ test(); });
 });
+
+// Animated handburger
+
+$(document).ready(function(){
+	$('#nav-icon3').click(function(){
+		$(this).toggleClass('open');
+	});
+});
+
+// horizontal scrolling
