@@ -492,8 +492,8 @@ i {
 }
 @media (max-width: 430px) {
   .box{
-    background-color: #0275d8 !important;
-    /* background-color: transparent !important; */
+    /* background-color: #0275d8 !important; */
+    background-color: transparent !important;
     border-color: #0275d8;
     border: 1;
     color: #dfdfdf;;
