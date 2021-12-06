@@ -339,7 +339,6 @@ i {
 
 .secondlanding{
   background: linear-gradient(291.73deg, #0275d8 64.85%, #4c68c4 88.18%);
-  
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -348,12 +347,16 @@ i {
   margin-top: 0rem;
   padding-top:7.2rem;
   padding-bottom:7rem;
+  padding-left:9rem;
+  padding-right:9rem;
 }
 @media (max-width: 991px) {
   .secondlanding{
     padding-top:4.5rem;
     padding-bottom:4rem;
     margin-top: 3rem;
+    padding-left:1rem;
+    padding-right:1rem;
   }
 }
 .smalltextlandingtwo{
@@ -392,6 +395,22 @@ i {
   margin-top: 0rem;
   padding-top:7.2rem;
   padding-bottom:4rem;
+  padding-left:9rem;
+  padding-right:9rem;
+}
+.Thirdbody-2{
+  padding-left:1.5rem;
+  padding-right:1.5rem;
+}
+@media (max-width: 991px) {
+  .Thirdbody-2{
+    padding-left:0rem;
+    padding-right:0rem;
+  }
+  .thirdlanding{
+    padding-left:1rem;
+    padding-right:1rem;
+  }
 }
 
 .smalltextlandingthree{
@@ -522,7 +541,6 @@ i {
 
 .fourthlanding{
   background-color:rgb(22, 21, 21);
-  
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -531,8 +549,25 @@ i {
   margin-top: 0rem;
   padding-top:7.2rem;
   padding-bottom:7rem;
+  padding-left:8.8rem;
+  padding-right:8.8rem;
 }
 
+@media (max-width: 991px) {
+  .fourthlanding{
+    background-color:rgb(22, 21, 21);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    margin-top: 0rem;
+    padding-top:7.2rem;
+    padding-bottom:7rem;
+    padding-left:1rem;
+    padding-right:1rem;
+  }
+}
 
 .projecttopic{
   font-size: small;
