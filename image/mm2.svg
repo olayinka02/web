@@ -1,7 +1,7 @@
 <svg width="875" height="715" viewBox="0 0 875 715" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g opacity="0.85">
 <ellipse cx="267.277" cy="235.485" rx="3.1962" ry="1.91772" fill="#E9702D"/>
-<circle cx="333.758" cy="190.098" r="3.1962" fill="#E9702D"/>
+<!-- <circle cx="333.758" cy="190.098" r="3.1962" fill="#E9702D"/>
 <circle cx="312.983" cy="186.583" r="1.5981" fill="#E9702D"/>
 <circle cx="237.233" cy="211.833" r="0.639241" fill="#E9702D"/>
 <circle cx="336.635" cy="173.798" r="1.5981" fill="#E9702D"/>
@@ -27,7 +27,7 @@
 <circle cx="209.106" cy="340.959" r="3.1962" fill="#E9702D"/>
 <circle cx="181.299" cy="337.443" r="2.23734" fill="#E9702D"/>
 <circle cx="214.54" cy="319.545" r="2.23734" fill="#E9702D"/>
-<circle cx="220.932" cy="365.57" r="0.958861" fill="#E9702D"/>
+<circle cx="220.932" cy="365.57" r="0.958861" fill="#E9702D"/> -->
 <ellipse cx="186.413" cy="362.054" rx="0.958861" ry="0.639241" fill="#E9702D"/>
 <circle cx="238.192" cy="358.538" r="0.958861" fill="#E9702D"/>
 <ellipse cx="242.666" cy="344.795" rx="0.958861" ry="1.27848" fill="#E9702D"/>
@@ -79,7 +79,7 @@
 </g>
 <g opacity="0.85">
 <ellipse cx="188.721" cy="229.523" rx="3.1962" ry="1.91772" fill="#E9702D"/>
-<circle cx="255.203" cy="184.137" r="3.1962" fill="#E9702D"/>
+<!-- <circle cx="255.203" cy="184.137" r="3.1962" fill="#E9702D"/>
 <circle cx="234.427" cy="180.621" r="1.5981" fill="#E9702D"/>
 <circle cx="158.677" cy="205.871" r="0.639241" fill="#E9702D"/>
 <circle cx="258.079" cy="167.836" r="1.5981" fill="#E9702D"/>
@@ -104,7 +104,7 @@
 <circle cx="269.905" cy="175.826" r="0.639241" fill="#E9702D"/>
 <circle cx="130.55" cy="334.997" r="3.1962" fill="#E9702D"/>
 <circle cx="102.744" cy="331.482" r="2.23734" fill="#E9702D"/>
-<circle cx="135.984" cy="313.583" r="2.23734" fill="#E9702D"/>
+<circle cx="135.984" cy="313.583" r="2.23734" fill="#E9702D"/> -->
 <circle cx="142.376" cy="359.608" r="0.958861" fill="#E9702D"/>
 <ellipse cx="107.857" cy="356.092" rx="0.958861" ry="0.639241" fill="#E9702D"/>
 <circle cx="159.636" cy="352.577" r="0.958861" fill="#E9702D"/>
@@ -118,7 +118,7 @@
 </g>
 <g opacity="0.85">
 <ellipse cx="242.68" cy="357.21" rx="3.1962" ry="1.91772" transform="rotate(-81.8554 242.68 357.21)" fill="#E9702D"/>
-<circle cx="207.17" cy="284.97" r="3.1962" transform="rotate(-81.8554 207.17 284.97)" fill="#E9702D"/>
+<!-- <circle cx="207.17" cy="284.97" r="3.1962" transform="rotate(-81.8554 207.17 284.97)" fill="#E9702D"/>
 <circle cx="200.747" cy="305.038" r="1.5981" transform="rotate(-81.8554 200.747 305.038)" fill="#E9702D"/>
 <circle cx="215.01" cy="383.601" r="0.639241" transform="rotate(-81.8554 215.01 383.601)" fill="#E9702D"/>
 <circle cx="191.442" cy="279.813" r="1.5981" transform="rotate(-81.8554 191.442 279.813)" fill="#E9702D"/>
@@ -152,7 +152,7 @@
 <circle cx="353.131" cy="438.239" r="1.27848" transform="rotate(-81.8554 353.131 438.239)" fill="#E9702D"/>
 <circle cx="345.815" cy="414.913" r="0.958861" transform="rotate(-81.8554 345.815 414.913)" fill="#E9702D"/>
 <circle cx="323.387" cy="445.283" r="0.958861" transform="rotate(-81.8554 323.387 445.283)" fill="#E9702D"/>
-<ellipse cx="331.85" cy="406.457" rx="0.958861" ry="0.639241" transform="rotate(-81.8554 331.85 406.457)" fill="#E9702D"/>
+<ellipse cx="331.85" cy="406.457" rx="0.958861" ry="0.639241" transform="rotate(-81.8554 331.85 406.457)" fill="#E9702D"/> -->
 <circle cx="152.759" cy="243.281" r="1.5981" transform="rotate(-81.8554 152.759 243.281)" fill="#E9702D"/>
 </g>
 <g opacity="0.85">
@@ -196,7 +196,7 @@
 </g>
 <g opacity="0.85">
 <ellipse cx="506.753" cy="600.943" rx="3.1962" ry="1.91772" transform="rotate(-81.8554 506.753 600.943)" fill="#E9702D"/>
-<circle cx="471.243" cy="528.703" r="3.1962" transform="rotate(-81.8554 471.243 528.703)" fill="#E9702D"/>
+<!-- <circle cx="471.243" cy="528.703" r="3.1962" transform="rotate(-81.8554 471.243 528.703)" fill="#E9702D"/>
 <circle cx="464.82" cy="548.77" r="1.5981" transform="rotate(-81.8554 464.82 548.77)" fill="#E9702D"/>
 <circle cx="479.084" cy="627.333" r="0.639241" transform="rotate(-81.8554 479.084 627.333)" fill="#E9702D"/>
 <circle cx="455.515" cy="523.546" r="1.5981" transform="rotate(-81.8554 455.515 523.546)" fill="#E9702D"/>
@@ -222,7 +222,7 @@
 <circle cx="602.923" cy="673.47" r="3.1962" transform="rotate(-81.8554 602.923 673.47)" fill="#E9702D"/>
 <circle cx="595.503" cy="700.498" r="2.23734" transform="rotate(-81.8554 595.503 700.498)" fill="#E9702D"/>
 <circle cx="582.494" cy="665.057" r="2.23734" transform="rotate(-81.8554 582.494 665.057)" fill="#E9702D"/>
-<circle cx="628.961" cy="665.25" r="0.958861" transform="rotate(-81.8554 628.961 665.25)" fill="#E9702D"/>
+<circle cx="628.961" cy="665.25" r="0.958861" transform="rotate(-81.8554 628.961 665.25)" fill="#E9702D"/> -->
 <ellipse cx="620.59" cy="698.923" rx="0.958861" ry="0.639241" transform="rotate(-81.8554 620.59 698.923)" fill="#E9702D"/>
 <circle cx="624.446" cy="647.168" r="0.958861" transform="rotate(-81.8554 624.446 647.168)" fill="#E9702D"/>
 <ellipse cx="611.474" cy="640.792" rx="0.958861" ry="1.27848" transform="rotate(-81.8554 611.474 640.792)" fill="#E9702D"/>
@@ -237,7 +237,7 @@
 <ellipse cx="88.8544" cy="258.838" rx="3.1962" ry="1.91772" fill="#E9702D"/>
 <circle cx="155.335" cy="213.452" r="3.1962" fill="#E9702D"/>
 <circle cx="134.56" cy="209.936" r="1.5981" fill="#E9702D"/>
-<circle cx="58.81" cy="235.186" r="0.639241" fill="#E9702D"/>
+<!-- <circle cx="58.81" cy="235.186" r="0.639241" fill="#E9702D"/>
 <circle cx="158.212" cy="197.151" r="1.5981" fill="#E9702D"/>
 <circle cx="196.247" cy="189.8" r="0.639241" fill="#E9702D"/>
 <circle cx="163.006" cy="230.072" r="0.639241" fill="#E9702D"/>
@@ -261,7 +261,7 @@
 <circle cx="30.6835" cy="364.313" r="3.1962" fill="#E9702D"/>
 <circle cx="2.87663" cy="360.797" r="2.23734" fill="#E9702D"/>
 <circle cx="36.117" cy="342.898" r="2.23734" fill="#E9702D"/>
-<circle cx="42.5095" cy="388.924" r="0.958861" fill="#E9702D"/>
+<circle cx="42.5095" cy="388.924" r="0.958861" fill="#E9702D"/> -->
 <ellipse cx="7.99048" cy="385.408" rx="0.958861" ry="0.639241" fill="#E9702D"/>
 <circle cx="59.7689" cy="381.892" r="0.958861" fill="#E9702D"/>
 <ellipse cx="64.2437" cy="368.148" rx="0.958861" ry="1.27848" fill="#E9702D"/>
@@ -275,7 +275,7 @@
 <g opacity="0.85">
 <ellipse cx="142.813" cy="386.526" rx="3.1962" ry="1.91772" transform="rotate(-81.8554 142.813 386.526)" fill="#E9702D"/>
 <circle cx="107.303" cy="314.285" r="3.1962" transform="rotate(-81.8554 107.303 314.285)" fill="#E9702D"/>
-<circle cx="100.88" cy="334.353" r="1.5981" transform="rotate(-81.8554 100.88 334.353)" fill="#E9702D"/>
+<!-- <circle cx="100.88" cy="334.353" r="1.5981" transform="rotate(-81.8554 100.88 334.353)" fill="#E9702D"/>
 <circle cx="115.143" cy="412.916" r="0.639241" transform="rotate(-81.8554 115.143 412.916)" fill="#E9702D"/>
 <circle cx="91.5747" cy="309.128" r="1.5981" transform="rotate(-81.8554 91.5747 309.128)" fill="#E9702D"/>
 <circle cx="89.6861" cy="270.436" r="0.639241" transform="rotate(-81.8554 89.6861 270.436)" fill="#E9702D"/>
@@ -308,7 +308,7 @@
 <circle cx="253.264" cy="467.554" r="1.27848" transform="rotate(-81.8554 253.264 467.554)" fill="#E9702D"/>
 <circle cx="245.948" cy="444.229" r="0.958861" transform="rotate(-81.8554 245.948 444.229)" fill="#E9702D"/>
 <circle cx="223.52" cy="474.598" r="0.958861" transform="rotate(-81.8554 223.52 474.598)" fill="#E9702D"/>
-<ellipse cx="231.983" cy="435.772" rx="0.958861" ry="0.639241" transform="rotate(-81.8554 231.983 435.772)" fill="#E9702D"/>
+<ellipse cx="231.983" cy="435.772" rx="0.958861" ry="0.639241" transform="rotate(-81.8554 231.983 435.772)" fill="#E9702D"/> -->
 <circle cx="52.8918" cy="272.596" r="1.5981" transform="rotate(-81.8554 52.8918 272.596)" fill="#E9702D"/>
 </g>
 <g opacity="0.85">
@@ -352,7 +352,7 @@
 </g>
 <g opacity="0.85">
 <ellipse cx="428.198" cy="594.981" rx="3.1962" ry="1.91772" transform="rotate(-81.8554 428.198 594.981)" fill="#E9702D"/>
-<circle cx="392.688" cy="522.741" r="3.1962" transform="rotate(-81.8554 392.688 522.741)" fill="#E9702D"/>
+<!-- <circle cx="392.688" cy="522.741" r="3.1962" transform="rotate(-81.8554 392.688 522.741)" fill="#E9702D"/>
 <circle cx="386.264" cy="542.808" r="1.5981" transform="rotate(-81.8554 386.264 542.808)" fill="#E9702D"/>
 <circle cx="400.528" cy="621.372" r="0.639241" transform="rotate(-81.8554 400.528 621.372)" fill="#E9702D"/>
 <circle cx="376.959" cy="517.584" r="1.5981" transform="rotate(-81.8554 376.959 517.584)" fill="#E9702D"/>
@@ -378,7 +378,7 @@
 <circle cx="524.367" cy="667.508" r="3.1962" transform="rotate(-81.8554 524.367 667.508)" fill="#E9702D"/>
 <circle cx="516.948" cy="694.537" r="2.23734" transform="rotate(-81.8554 516.948 694.537)" fill="#E9702D"/>
 <circle cx="503.939" cy="659.096" r="2.23734" transform="rotate(-81.8554 503.939 659.096)" fill="#E9702D"/>
-<circle cx="550.405" cy="659.288" r="0.958861" transform="rotate(-81.8554 550.405 659.288)" fill="#E9702D"/>
+<circle cx="550.405" cy="659.288" r="0.958861" transform="rotate(-81.8554 550.405 659.288)" fill="#E9702D"/> -->
 <ellipse cx="542.035" cy="692.961" rx="0.958861" ry="0.639241" transform="rotate(-81.8554 542.035 692.961)" fill="#E9702D"/>
 <circle cx="545.89" cy="641.207" r="0.958861" transform="rotate(-81.8554 545.89 641.207)" fill="#E9702D"/>
 <ellipse cx="532.919" cy="634.83" rx="0.958861" ry="1.27848" transform="rotate(-81.8554 532.919 634.83)" fill="#E9702D"/>
@@ -547,7 +547,7 @@
 </g>
 <g opacity="0.85">
 <ellipse cx="404.773" cy="147.279" rx="3.1962" ry="1.91772" fill="#E9702D"/>
-<circle cx="471.255" cy="101.893" r="3.1962" fill="#E9702D"/>
+<!-- <circle cx="471.255" cy="101.893" r="3.1962" fill="#E9702D"/>
 <circle cx="450.479" cy="98.3774" r="1.5981" fill="#E9702D"/>
 <circle cx="374.729" cy="123.627" r="0.639241" fill="#E9702D"/>
 <circle cx="474.131" cy="85.5925" r="1.5981" fill="#E9702D"/>
@@ -580,14 +580,14 @@
 <ellipse cx="346.922" cy="242.526" rx="0.958861" ry="0.639241" fill="#E9702D"/>
 <circle cx="340.21" cy="268.096" r="1.27848" fill="#E9702D"/>
 <circle cx="362.264" cy="257.548" r="0.958861" fill="#E9702D"/>
-<circle cx="329.023" cy="239.65" r="0.958861" fill="#E9702D"/>
+<circle cx="329.023" cy="239.65" r="0.958861" fill="#E9702D"/> -->
 <ellipse cx="368.656" cy="242.526" rx="0.958861" ry="0.639241" fill="#E9702D"/>
 <circle cx="504.815" cy="42.1242" r="1.5981" fill="#E9702D"/>
 </g>
 <g opacity="0.85">
 <ellipse cx="458.732" cy="274.967" rx="3.1962" ry="1.91772" transform="rotate(-81.8554 458.732 274.967)" fill="#E9702D"/>
 <circle cx="423.222" cy="202.727" r="3.1962" transform="rotate(-81.8554 423.222 202.727)" fill="#E9702D"/>
-<circle cx="416.799" cy="222.794" r="1.5981" transform="rotate(-81.8554 416.799 222.794)" fill="#E9702D"/>
+<!-- <circle cx="416.799" cy="222.794" r="1.5981" transform="rotate(-81.8554 416.799 222.794)" fill="#E9702D"/>
 <circle cx="431.062" cy="301.357" r="0.639241" transform="rotate(-81.8554 431.062 301.357)" fill="#E9702D"/>
 <circle cx="407.494" cy="197.57" r="1.5981" transform="rotate(-81.8554 407.494 197.57)" fill="#E9702D"/>
 <circle cx="405.605" cy="158.877" r="0.639241" transform="rotate(-81.8554 405.605 158.877)" fill="#E9702D"/>
@@ -619,14 +619,14 @@
 <ellipse cx="544.823" cy="345.729" rx="0.958861" ry="0.639241" transform="rotate(-81.8554 544.823 345.729)" fill="#E9702D"/>
 <circle cx="569.183" cy="355.995" r="1.27848" transform="rotate(-81.8554 569.183 355.995)" fill="#E9702D"/>
 <circle cx="561.867" cy="332.67" r="0.958861" transform="rotate(-81.8554 561.867 332.67)" fill="#E9702D"/>
-<circle cx="539.439" cy="363.039" r="0.958861" transform="rotate(-81.8554 539.439 363.039)" fill="#E9702D"/>
+<circle cx="539.439" cy="363.039" r="0.958861" transform="rotate(-81.8554 539.439 363.039)" fill="#E9702D"/> -->
 <ellipse cx="547.902" cy="324.214" rx="0.958861" ry="0.639241" transform="rotate(-81.8554 547.902 324.214)" fill="#E9702D"/>
 <circle cx="368.811" cy="161.037" r="1.5981" transform="rotate(-81.8554 368.811 161.037)" fill="#E9702D"/>
 </g>
 <g opacity="0.85">
 <ellipse cx="651.876" cy="370.125" rx="3.1962" ry="1.91772" fill="#E9702D"/>
 <circle cx="718.357" cy="324.739" r="3.1962" fill="#E9702D"/>
-<circle cx="697.581" cy="321.223" r="1.5981" fill="#E9702D"/>
+<!-- <circle cx="697.581" cy="321.223" r="1.5981" fill="#E9702D"/>
 <circle cx="621.831" cy="346.473" r="0.639241" fill="#E9702D"/>
 <circle cx="721.233" cy="308.438" r="1.5981" fill="#E9702D"/>
 <circle cx="759.268" cy="301.087" r="0.639241" fill="#E9702D"/>
@@ -653,7 +653,7 @@
 <circle cx="599.138" cy="454.185" r="2.23734" fill="#E9702D"/>
 <circle cx="605.531" cy="500.21" r="0.958861" fill="#E9702D"/>
 <ellipse cx="571.012" cy="496.694" rx="0.958861" ry="0.639241" fill="#E9702D"/>
-<circle cx="622.79" cy="493.179" r="0.958861" fill="#E9702D"/>
+<circle cx="622.79" cy="493.179" r="0.958861" fill="#E9702D"/> -->
 <ellipse cx="627.265" cy="479.435" rx="0.958861" ry="1.27848" fill="#E9702D"/>
 <ellipse cx="594.024" cy="465.372" rx="0.958861" ry="0.639241" fill="#E9702D"/>
 <circle cx="587.312" cy="490.941" r="1.27848" fill="#E9702D"/>
@@ -781,7 +781,7 @@
 </g>
 <g opacity="0.85">
 <ellipse cx="554.52" cy="106.753" rx="3.1962" ry="1.91772" fill="#E9702D"/>
-<circle cx="621.001" cy="61.3672" r="3.1962" fill="#E9702D"/>
+<!-- <circle cx="621.001" cy="61.3672" r="3.1962" fill="#E9702D"/>
 <circle cx="600.226" cy="57.8513" r="1.5981" fill="#E9702D"/>
 <circle cx="524.476" cy="83.1013" r="0.639241" fill="#E9702D"/>
 <circle cx="623.878" cy="45.0665" r="1.5981" fill="#E9702D"/>
@@ -816,7 +816,7 @@
 <circle cx="512.01" cy="217.022" r="0.958861" fill="#E9702D"/>
 <circle cx="478.77" cy="199.124" r="0.958861" fill="#E9702D"/>
 <ellipse cx="518.403" cy="202" rx="0.958861" ry="0.639241" fill="#E9702D"/>
-<circle cx="654.561" cy="1.5981" r="1.5981" fill="#E9702D"/>
+<circle cx="654.561" cy="1.5981" r="1.5981" fill="#E9702D"/> -->
 </g>
 <g opacity="0.85">
 <ellipse cx="608.479" cy="234.441" rx="3.1962" ry="1.91772" transform="rotate(-81.8554 608.479 234.441)" fill="#E9702D"/>

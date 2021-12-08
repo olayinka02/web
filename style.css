@@ -332,7 +332,7 @@ i {
   font-size: auto;
   margin-top: 20rem;
   font-weight: bold;
-  font-family:  Comfortaa,cursive;
+  font-family: "Poppins", sans-serif;
   /* text-align: center; */
   vertical-align: middle !important;
   color: #f0f0f0; 
@@ -343,7 +343,7 @@ i {
     font-size:1.9rem;
     margin-top: -1rem;
     font-weight: bold;
-    font-family: Comfortaa,cursive;
+    font-family:  "Poppins", sans-serif;
     /* text-align: center; */
     vertical-align: middle !important;
     color: #f0f0f0; 
@@ -353,14 +353,14 @@ i {
 .smalltext{
   color: #cccccc;
   width: 80%;
-  font-family:  Comfortaa,cursive;
+  font-family:  "Poppins", sans-serif;
   font-size: small;
   
 }
 @media (max-width: 991px) {
   .smalltext{
   width: 100% !important;
-  font-family: Comfortaa,cursive;
+  font-family: "Poppins", sans-serif;
   font-size: small;
   }
 }
@@ -415,7 +415,7 @@ i {
 }
 .smalltextlandingtwo{
   color: #cccccc;
-  font-family:  Comfortaa,cursive;
+  font-family:  "Poppins", sans-serif;
   font-size: small;
   width: 90%;
 
@@ -423,14 +423,14 @@ i {
 @media (max-width: 991px) {
   .smalltextlandingtwo{
     color: #cccccc;
-    font-family: Comfortaa,cursive;
+    font-family: "Poppins", sans-serif;
     font-size: small;
     width: 100%;
   }
 }
 
 .Abouttext{
-  font-family:  Comfortaa,cursive;
+  font-family:  "Poppins", sans-serif;
   color: #f0f0f0;
   font-size: x-large;
   font-weight: bold;
@@ -469,7 +469,7 @@ i {
 
 .smalltextlandingthree{
   color: #cccccc;
-  font-family: Comfortaa,cursive;
+  font-family: "Poppins", sans-serif;
   font-size: small;
   width: 70%;
 
@@ -477,7 +477,7 @@ i {
 @media (max-width: 991px) {
   .smalltextlandingthree{
     color: #cccccc;
-    font-family: Comfortaa,cursive;
+    font-family: "Poppins", sans-serif;
     font-size: small;
     width: 100%;
   }
@@ -533,7 +533,7 @@ i {
   border-color: #0275d8;
   border: 1;
   color: #bbbbbb;;
-  font-family:  Comfortaa,cursive;
+  font-family:   "Nunito", Helvetica, Arial, sans-serif;
   margin-bottom: 2rem;
   transition: 0.7s;
   border-radius:0.5rem;
@@ -550,8 +550,7 @@ i {
     border-color: #0275d8;
     border: 1;
     color: #bbbbbb;;
-    font-family: Comfortaa,cursive;
-    font-size: small;
+    font-family: "Poppins", sans-serif;
     margin-bottom: 2rem;
     transition: 0.7s;
     border-radius:0.5rem;
@@ -572,6 +571,7 @@ i {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  font-size: small;
 }
 .linebox{
   background-color: #f0f0f0 !important;
@@ -624,7 +624,7 @@ i {
 
 .projecttopic{
   font-size: small;
-  font-family: Comfortaa,cursive;
+  font-family: "Poppins", sans-serif;
   width:50%;
   color: #cccccc;
 
@@ -632,7 +632,7 @@ i {
 @media (max-width: 500px) {
   .projecttopic{
     font-size: small;
-    font-family: Comfortaa,cursive;
+    font-family: "Poppins", sans-serif;
     width:100%;
     color: #cccccc;
   
@@ -640,32 +640,32 @@ i {
 }
 
 .Abouttextproject{
-  font-family:  Comfortaa,cursive;
+  font-family:  "Poppins", sans-serif;
   color: #DC09E6;
   font-size: x-large;
   font-weight: bold;
 }
 .Abouttextproject2{
-  font-family: Comfortaa,cursive;
+  font-family: "Poppins", sans-serif;
   color: #E9702D;
   font-size: x-large;
   font-weight: bold;
 }
 .Abouttextproject3{
-  font-family: Comfortaa,cursive;
+  font-family:  "Poppins", sans-serif;
   color: #FFCDD3;
   font-size: x-large;
   font-weight: bold;
 }
 .Abouttextproject4{
-  font-family: Comfortaa,cursive;
+  font-family: "Poppins", sans-serif;
   color: #AFD200;
   font-size: x-large;
   font-weight: bold;
 }
 
 .Aboutimagex1{
-  font-family:  Comfortaa,cursive;
+  font-family:  "Poppins", sans-serif;
   color: #f0f0f0;
   font-size: x-large;
   font-weight: bold;
@@ -677,7 +677,7 @@ i {
 }
 
 .Aboutimagex2{
-  font-family:  Comfortaa,cursive;
+  font-family:  "Poppins", sans-serif;
   color: #f0f0f0;
   font-size: x-large;
   font-weight: bold;
@@ -691,7 +691,7 @@ i {
 
 @media (max-width: 500px) {
   .Aboutimagex1{
-    font-family:  Comfortaa,cursive;
+    font-family:  "Poppins", sans-serif;
     color: #f0f0f0;
     font-size: x-large;
     font-weight: bold;
@@ -703,7 +703,7 @@ i {
   }
   
   .Aboutimagex2{
-    font-family:  Comfortaa,cursive;
+    font-family:  "Poppins", sans-serif;
     color: #f0f0f0;
     font-size: x-large;
     font-weight: bold;
