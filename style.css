@@ -539,7 +539,7 @@ i {
   border-radius:0.5rem;
 }
 .box:hover{
-  background-color: #0275d8 !important;
+  background:url(./image/vector2.svg), #0275d8 !important;
   color: #f0f0f0;
 
 }
@@ -579,7 +579,7 @@ i {
 }
 
 .skillset{
-  margin-top: 9rem !important;
+  margin-top: 7rem !important;
   margin-bottom:auto;
 }
 @media (max-width: 430px) {
@@ -663,6 +663,12 @@ i {
   font-size: x-large;
   font-weight: bold;
 }
+.Abouttextproject5{
+  font-family: "Poppins", sans-serif;
+  color: #F9A703;
+  font-size: x-large;
+  font-weight: bold;
+}
 
 .Aboutimagex1{
   font-family:  "Poppins", sans-serif;
@@ -685,6 +691,10 @@ i {
 }
 .aboutabouttextx2{
   margin-top: 6rem;
+  display: block;
+}
+.aboutabouttextx2i{
+  margin-top: auto;
   display: block;
 }
 
@@ -713,9 +723,18 @@ i {
     margin-top: 6rem;
     display: none;
   }
-  
+  .aboutabouttextx2i{
+    margin-top:auto;
+    display: none;
+  }
 }
 .checkout{
   width:25%;
   font-size: smaller;
+}
+@media (max-width: 500px) {
+  .checkout{
+    width:35%;
+    font-size: smaller;
+  }
 }
