@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 body {
+  width: 100% !important;
   font-family: 'Roboto', sans-serif;
   overflow-y: scroll;
   scroll-behavior: smooth;
@@ -41,7 +42,7 @@ i {
 @media (max-width: 290px) {
   .navbar-mainbg {
     background-color: #0275d8;
-    width: 90% !important;
+    width: 100% !important;
     padding:0;
     padding-left:0rem;
     padding-right:0 !important;
@@ -695,6 +696,7 @@ i {
     padding-bottom:7rem;
     padding-left:1rem;
     padding-right:1rem;
+    margin-bottom:4rem !important;
   }
 }
 
@@ -754,6 +756,12 @@ i {
 .Abouttextproject7{
   font-family: "Poppins", sans-serif;
   color: #0275d8;
+  font-size: x-large;
+  font-weight: bold;
+}
+.Abouttextproject8{
+  font-family: "Poppins", sans-serif;
+  color: #CBDDA9;
   font-size: x-large;
   font-weight: bold;
 }
@@ -856,13 +864,30 @@ i {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-left:9.9rem;
-  padding-right:9.9rem;
+  padding-left:9.5rem;
+  padding-right:9.5rem;
+  padding-top:5rem !important;
+  padding-bottom: 5rem;
+  margin-top:4rem;
 }
 @media (max-width: 991px) {
   .illustration{
     padding-left:1rem;
     padding-right:1rem;
+  }
+}
+@media (max-width: 500px) {
+  .illustration{
+    background-image: url(./image/vector2.svg),linear-gradient(291.73deg, rgb(20, 20, 20) 64.85%, rgb(20, 20, 20)88.18%) ;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left:1rem;
+    padding-right:1rem;
+    padding-top:2rem !important;
+    padding-bottom: 5rem;
+    margin-top:4rem;
   }
 }
 
@@ -885,18 +910,12 @@ i {
   color:#e2e2e2;
   border: 1;
   font-family: "Poppins", sans-serif;
-  margin-bottom: 2rem;
-  vertical-align: middle !important;
-  align-items: center;
-  align-self: center;
-  padding-top:2rem;
-  padding-bottom:2rem;
-  height: 18rem;
+  height: auto;
   transition: 0.7s;
   border-radius:0.5rem;
 }
 .boxxx:hover{
-  background:url(./image/vector2.svg), #0275d8 !important;
+  background:url(./image/vector2.svg), #1d1f20 !important;
   color: #f0f0f0;
 
 }
@@ -904,5 +923,258 @@ i {
   background-color:linear-gradient(291.73deg, rgb(20, 20, 20) 64.85%, rgb(20, 20, 20)88.18%) ;
   padding-left:9.9rem;
   padding-right:9.9rem;
+  padding-top: 4rem;
   height: 25rem;
+  margin-bottom: 2rem;
+}
+@media (max-width: 991px) {
+  .contact{
+    background-color:linear-gradient(291.73deg, rgb(20, 20, 20) 64.85%, rgb(20, 20, 20)88.18%) ;
+    padding-left:1rem;
+    padding-right:1rem;
+    padding-top: 1rem;
+    height: 25rem;
+    margin-bottom: 4rem;
+    
+  }
+}
+@media (max-width: 500px) {
+  .contact{
+    background-color:linear-gradient(291.73deg, rgb(20, 20, 20) 64.85%, rgb(20, 20, 20)88.18%) ;
+    padding-left:1rem;
+    padding-right:1rem;
+    padding-top: 1rem;
+    height: 25rem;
+    margin-bottom: 27rem;
+    
+  }
+}
+.projectsdescription{
+  color: #e2e2e2;
+  font-size: 0.74rem;
+  padding: 0.2rem;
+}
+.toolheader{
+  color: #9ccaf3;
+}
+.contacttext{
+  color:#e2e2e2;
+  font-size: smaller;
+}
+.contactform{
+  width: 90% !important;
+  
+ 
+}
+.formbody{
+  padding-left: 7rem !important;
+  padding-right: auto;
+  justify-content: center;
+  align-items:center;
+}
+@media (max-width: 500px) {
+  .formbody{
+    padding-left: 1rem !important;
+    padding-right: auto;
+    justify-content: center;
+    align-items:center;
+  }
+  .contactform{
+    width: 100% !important;
+    
+   
+  }
+
+}
+.iconbodyLinkedin{
+  height: 45px;
+  width: 45px;
+  border-radius: 60px;
+  background-color: #e2e2e2;
+  border: 2 !important;
+  border-color: #e2e2e2 !important;
+ display: flex;
+  align-items: center;
+  text-align: center;
+  /* display: inline; */
+ 
+}
+.iconbodyLinkedin:hover{
+  background-color: #6467f0;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+ 
+}
+.iconbodyBehance{
+  height: 45px;
+  width: 45px;
+  border-radius: 60px;
+  background-color: #e2e2e2;
+  border: 2 !important;
+  border-color: #e2e2e2 !important;
+ display: flex;
+  align-items: center;
+  text-align: center;
+  margin-left:3rem;
+  margin-top: -2.9rem;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+.iconbodyBehance:hover{
+ 
+  background-color: #333333;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+
+.iconbodyEmail{
+  height: 45px;
+  width: 45px;
+  border-radius: 60px;
+  background-color: #e2e2e2;
+  border: 2 !important;
+  border-color: #e2e2e2 !important;
+ display: flex;
+  align-items: center;
+  text-align: center;
+  margin-left:15rem;
+  margin-top:-2.8rem;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+.iconbodyEmail:hover{
+  
+  background-color: #fc2004;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+
+.iconbodyDribble{
+  height: 45px;
+  width: 45px;
+  border-radius: 60px;
+  background-color: #e2e2e2;
+  border: 2 !important;
+  border-color: #e2e2e2 !important;
+ display: flex;
+  align-items: center;
+  text-align: center;
+  margin-left:6rem;
+  margin-top: -2.8rem;
+}
+.iconbodyDribble:hover{
+ 
+  background-color: #9b3a3a;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+.iconbodywhatsapp{
+  height: 45px;
+  width: 45px;
+  border-radius: 60px;
+  background-color: #e2e2e2;
+  border: 2 !important;
+  border-color: #e2e2e2 !important;
+ display: flex;
+  align-items: center;
+  text-align: center;
+  margin-left:9rem;
+  margin-top:-2.9rem;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+.iconbodywhatsapp:hover{
+
+  background-color: #13cc5a;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+
+.iconbodyinstagram{
+  height: 45px;
+  width: 45px;
+  border-radius: 60px;
+  background-color: #e2e2e2;
+  border: 2 !important;
+  border-color: #e2e2e2 !important;
+ display: flex;
+  align-items: center;
+  text-align: center;
+  margin-left:12rem;
+  margin-top:-2.9rem;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+
+.iconbodyinstagram:hover{
+ 
+  background-color: #e01563;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+
+
+.mainiconbehance{
+  font-size:18px;
+  margin: auto;
+  color: #020202;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+.mainiconbehance:hover{
+  font-size:18px;
+  margin: auto;
+  color: #e2e2e2;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+.mainicondribble{
+  font-size:18px;
+  margin: auto;
+  color: #9b3a3a;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+.mainicondribble:hover{
+  font-size:18px;
+  margin: auto;
+  color: #e2e2e2;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+.mainiconinstagram{
+  font-size:24px;
+  margin: auto;
+  color: #e01563;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+.mainiconinstagram:hover{
+  font-size:24px;
+  margin: auto;
+  color: #e2e2e2;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+.mainiconlinkedin{
+  font-size:19px;
+  margin: auto;
+  color: #6467f0;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+
+.mainiconlinkedin:hover{
+  font-size:19px;
+  margin: auto;
+  color: #e2e2e2;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+
+.mainiconwhatsap{
+  font-size:24px;
+  margin: auto;
+  color: #13cc5a;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+.mainiconwhatsap:hover{
+  font-size:24px;
+  margin: auto;
+  color: #e2e2e2;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+.mainiconemail{
+  font-size:24px;
+  margin: auto;
+  color: #fc2004;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+.mainiconemail:hover{
+  font-size:24px;
+  margin: auto;
+  color: #e2e2e2;
+  transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
 }
