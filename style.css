@@ -318,6 +318,7 @@ i {
 
 .texttwo{
   display: none !important;
+  
 }
 
 
@@ -327,6 +328,7 @@ i {
     display: none !important;
   }
   .texttwo{
+    
     display: block !important;
     -webkit-animation: fadein 4s; /* Safari, Chrome and Opera > 12.1 */
   -moz-animation: fadein 4s; /* Firefox < 16 */
@@ -574,6 +576,8 @@ i {
   color: #f0f0f0;
 
 }
+
+
 @media (max-width: 430px) {
   .box{
     /* background-color: #0275d8 !important; */
